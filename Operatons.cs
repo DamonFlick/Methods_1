@@ -13,7 +13,7 @@ namespace Methods_1
             int result = x + 2;
             return result;
         }
-
+         
         public static int multTwo(int x)
         {
             int result = x * 2;
